@@ -1,5 +1,9 @@
 # README #
 
+== Eternity II puzzle solver (brute force) in Java ==
+
+Wikipedia: http://en.wikipedia.org/wiki/Eternity_II_puzzle
+
 Install:
 
 // <JAVA_HOME> ex: "*C:\Program Files\Java\jdk...*"
