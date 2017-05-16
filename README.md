@@ -3,7 +3,7 @@
 Install:
 // <JAVA_HOME> ex: "C:\Program Files\Java\jdk..."
 
-1. Create start.bat:
+Create start.bat:
 "<JAVA_HOME>\bin\java" -server -jar Eternity.jar -r16 -c16 -p puzzles16x16.txt
 
 Usage, restart:
