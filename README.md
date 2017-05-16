@@ -2,7 +2,7 @@
 
 Install:
 
-// <JAVA_HOME> ex: "C:\Program Files\Java\jdk..."
+// <JAVA_HOME> ex: "*C:\Program Files\Java\jdk...*"
 
 **Create start.bat:**
 
